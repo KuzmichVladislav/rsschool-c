@@ -51,3 +51,51 @@ the supervision of mentors. Technologies: Java 11, Spring Framework, Spring MVC,
 Security, Hibernate, JUnit, Mockito, MySQL, Gradle
 
 [Project](https://github.com/KuzmichVladislav/MJC)
+
+Education
+---------
+**Higher**
+
+Государственный технический университет им. П.О. Сухого, Гомель Машиностроительный, Металлообрабатывающие станки и
+комплексы (инженер)
+
+2018 Государственный технический университет им. П.О. Сухого, Гомель Повышения квалификации, Программист web-дизайнер
+
+Professional development, courses
+---------
+2021 Java web Epam
+
+## Key skills
+
+### Languages
+
+Russian — Native English — B1 — Intermediate
+
+### Skills
+
+- Java
+- ООП
+- HTML5
+- CSS3
+- Java Servlets
+- JDBC
+- Hibernate ORM
+- Gradle
+- Spring Framework
+- Jenkins
+- SQL
+- Git
+- JUnit
+- Apache Maven
+- Driving experience
+
+#### Driver's license category B
+
+Further information About me
+---------
+
+I am a beginner software engineer. I have a good understanding of software development and design processes, right now
+I'm looking for a permanent job.
+
+- [github](https://github.com/KuzmichVladislav)
+- [linkedin](https://www.linkedin.com/in/vladislav-kuzmich)
