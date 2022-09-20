@@ -99,5 +99,3 @@ I'm looking for a permanent job.
 
 - [github](https://github.com/KuzmichVladislav)
 - [linkedin](https://www.linkedin.com/in/vladislav-kuzmich)
-
-https://KuzmichVladislav.github.io/rsschool-cv/
